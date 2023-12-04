@@ -1,4 +1,4 @@
-### Ryan Cesar Irizarry
+# Ryan Cesar Irizarry
 ## About Me
 
 I am a Computer Science and Economics student at Case Western Reserve University. I am currenlty a sophomore studying Data Structures, Algorithms, Operating Systems, and Computer Organization. I have experience in object-oriented programming and basic machine learning using python. I am interested in full-stack web development, cloud computing, and artificial intelligence. If you are interested in collaborating on a project in these areas or others, please do not hesitate to reach out.
